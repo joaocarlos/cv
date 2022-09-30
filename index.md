@@ -25,7 +25,7 @@ Supported arguments:
 
 ## Education
 
-### **Federal University of Bahia** `201.1 - 2017.1`
+### **Federal University of Bahia** `2013.2 - 2015.2`
 
 ```
 Feira de Santana, BA
@@ -33,7 +33,7 @@ Feira de Santana, BA
 
 - M.S. in Electrical Engineering
 - Energy and Information Processing track
-- Advised by [Wagner Oliveira](http://pact.cs.cmu.edu/koedinger.html) 
+- Advised by [Wagner Oliveira](http://lattes.cnpq.br/7355315368234452) 
 
 ### **State University of Feira de Santana** `2007.1 - 2013.1`
 
