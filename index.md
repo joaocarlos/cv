@@ -9,7 +9,7 @@ homepage:
   text: sites.google.com/ufrb.edu.br/joaobittencourt
 ---
 
-# Wode **Ni**
+# João **Bittencourt**
 
 <!--
 include contact information from the front matter
