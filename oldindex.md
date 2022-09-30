@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: João Carlos Bittencourt
+title: Wode "Nimo" Ni
 email:
-  url: mailto:joaocarlos@ufrb.edu.br
-  text: joaocarlos@ufrb.edu.br
+  url: mailto:woden@cs.cmu.edu
+  text: woden@cs.cmu.edu
 homepage:
-  url: http://sites.google.com/ufrb.edu.br/joaobittencourt
-  text: sites.google.com/ufrb.edu.br/joaobittencourt
+  url: http://cs.cmu.edu/~woden
+  text: cs.cmu.edu/~woden
 ---
 
 # Wode **Ni**
@@ -21,27 +21,34 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Research Interest
-
 ## Education
 
-### **Federal University of Bahia** `201.1 - 2017.1`
+### **Carnegie Mellon University** `2018.9 -`
 
 ```
-Feira de Santana, BA
+Pittsburgh, PA
 ```
 
-- M.S. in Electrical Engineering
-- Energy and Information Processing track
-- Advised by [Wagner Oliveira](http://pact.cs.cmu.edu/koedinger.html) 
+- Ph.D. in Software Engineering
+- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
 
-### **State University of Feira de Santana** `2007.1 - 2013.1`
+### **Columbia University** `2016.9 - 2018.5`
 
 ```
-Feira de Santana, BA
+New York, NY
 ```
 
-- B.S. in Computer Engineering
+- B.S. in Computer Science, _Magna Cum Laude_
+- Vision, Graphics track
+
+### **Dickinson College** `2013.9 - 2016.5`
+
+```
+Carlisle, PA
+```
+
+- B.S. in Computer Science, _Summa Cum Laude_
+- Computer Science Departmental Honors
 
 ## Publications
 
