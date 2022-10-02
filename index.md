@@ -23,6 +23,8 @@ Supported arguments:
 
 ## Research Interest
 
+I am an Assistant Professor of the Center of Exact Sciences and Technology ([CETEC](https://www.ufrb.edu.br/cetec)) at Federal University of Recôncavo of Bahia ([UFRB](https://www.ufrb.edu)). My academic experiences are focused on, reconfigurable hardware accelerators, embedded systems, and Internet of Things. Currently, I am focused on subjects for the design of high performance and low footprint embedded application, with special interests on machine learning and compact FPGA architectures for smart cities. 
+
 ## Education
 
 ### **Federal University of Bahia** `2013.2 - 2015.2`
