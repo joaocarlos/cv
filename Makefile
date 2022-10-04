@@ -6,3 +6,6 @@ build:
 
 exec:
 	docker-compose exec web /bin/bash
+
+serve:
+	bundle exec jekyll serve

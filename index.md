@@ -23,19 +23,19 @@ Supported arguments:
 
 ## Research Interest
 
-I am an Assistant Professor of the Center of Exact Sciences and Technology ([CETEC](https://www.ufrb.edu.br/cetec)) at Federal University of Recôncavo of Bahia ([UFRB](https://www.ufrb.edu)). My academic experiences are focused on, reconfigurable hardware accelerators, embedded systems, and Internet of Things. Currently, I am focused on subjects for the design of high performance and low footprint embedded application, with special interests on machine learning and compact FPGA architectures for smart cities. 
+I am an Assistant Professor of the Center of Exact Sciences and Technology ([CETEC](https://www.ufrb.edu.br/cetec)) at Federal University of Recôncavo of Bahia ([UFRB](https://www.ufrb.edu)). My academic experiences are focused on, reconfigurable hardware accelerators, embedded systems, and Internet of Things. Currently, I am focused on subjects for the design of high performance and low footprint embedded application, with special interests on machine learning and compact FPGA architectures for smart cities.
 
 ## Education
 
 ### **Federal University of Bahia** `2013.2 - 2015.2`
 
 ```
-Feira de Santana, BA
+Salvador, BA
 ```
 
 - M.S. in Electrical Engineering
 - Energy and Information Processing track
-- Advised by [Wagner Oliveira](http://lattes.cnpq.br/7355315368234452) 
+- Advised by [Wagner Oliveira](http://lattes.cnpq.br/7355315368234452)
 
 ### **State University of Feira de Santana** `2007.1 - 2013.1`
 
@@ -47,114 +47,184 @@ Feira de Santana, BA
 
 ## Publications
 
-### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
-**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
-_In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21)._ <br>
-[[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
-[[video preview](https://youtu.be/fMdHK9UrgQ4)]
-[[talk](https://youtu.be/_GQ8E7EMMws)]
+### _Books and Book Chapters_
 
+#### [**Tópicos em Engenharia de Computação da UFRB**]({{ page.homepage.url }}/assets/t_picos_em_engenharia_da_computacao)
 
-### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
-_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
-[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
-[[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
+Camila da Silva, **João Bittencourt**, André Ottoni and José Filho.<br>
+_Cruz das Almas: EDUFRB, 2021, v.1. 140p. Additional information: Brasil/Português. ISBN: 978658774324-0._ <br>
+[[PDF](https://www1.ufrb.edu.br/editora/component/phocadownload/category/2-e-books?download=223:topicos-em-engenharia-da-computacao)]
+[[E-book](https://issuu.com/edufrb/docs/t_picos_em_engenharia_da_computacao)]
 
-### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
+### [**Análise de Precisão de Detectores e Descritores em Imagens**]({{ page.homepage.url }}/assets/estudos_em_ciencias_exatas_e_tecnologicas.pdf)
 
-Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
-<i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
-_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)._<br>
-[[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
+Samuel Rebouças, Walber de Jesus and **João Bittencourt**<br>
+_In: Estudos em Ciências Exatas e Tecnológicas. 1 ed. Cruz das Almas: EDUFRB, 2021, pp. 117-130. Additional information: Brasil/Português. ISBN: 9786587743189._<br>
+[[PDF](https://www1.ufrb.edu.br/editora/component/phocadownload/category/2-e-books?download=224:estudos-em-ciencias-exatas-e-tecnologicas)]
 
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://2019.plateau-workshop.org/assets/papers-2019/9.pdf)
+### [**Imageamento Sísmico com FPGA Aplicado a Migração Reversa no Tempo**](https://cdn.atenaeditora.com.br/artigos_anexos/cap11_8c86eb9d5fbb104d17ec9964ebc400eb26ffb993.pdf)
 
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://2019.plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
-
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://2019.plateau-workshop.org/assets/papers-2019/2.pdf)
-
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://2019.plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
+Anderson Nascimento Deusdete Junior, Georgina Rojas, **João Bittencourt**, Joaquim Oliveira, Laue de Jesus, Rodrigo Tutu, Silvano Junior and Wagner de Oliveira.<br>
+_As Engenharias frente a Sociedade, a Economia, e o Meio Ambiente 5 (2020)._<br>
+[[PDF](https://cdn.atenaeditora.com.br/artigos_anexos/cap11_8c86eb9d5fbb104d17ec9964ebc400eb26ffb993.pdf)]
 
 ---
 
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
+### _Journal Papers_
 
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
-[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
+### [**Sistema de medição de distância baseado em visão computacional utilizando laser de linha**](https://revistas.unifacs.br/index.php/rsc/article/view/6643/4047)
 
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
+Walber de Jesus, Samuel Rebouças and **João Bittencourt**.<br>
+_Revista de Sistemas e Computação, v. 10, n. 1, 2020._<br>
+[[PDF](https://revistas.unifacs.br/index.php/rsc/article/view/6643/4047)]
 
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
+### [**Low-footprint CLEFIA FPGA Implementations with Full-key Expansion**](https://www.ijcaonline.org/archives/volume174/number5/bittencourt-2017-ijca-915392.pdf)
+
+**João Bittencourt**, Wagner de Oliveira and Ricardo Chaves.<br>
+_International Journal of Computer Applications, v. 174, p. 1-8, 2017._<br>
+[[PDF](https://www.ijcaonline.org/archives/volume174/number5/bittencourt-2017-ijca-915392.pdf)]
+
+### _Conference Papers_
+
+### [**Avaliando a Eficácia de Redes Neurais Artificiais para Reconhecimento de Face Utilizando Raspberry Pi**](https://sol.sbc.org.br/index.php/erbase/article/view/20366)
+
+Ejziel Santos, Fabrício Jesus, Walber Rocha and **João Bittencourt**.<br>
+_2021: XXI Escola Regional de Computação da Bahia, Alagoas e Sergipe_<br>
+[[PDF](https://sol.sbc.org.br/index.php/erbase/article/view/20366/20194)]
+
+### [**Modelagem e Controle PID de Robos Móveis Aplicados a Categoria Very Small Size de Futebol de Robôs**](https://sol.sbc.org.br/index.php/erbase/article/view/20062)<br>
+
+Lucas Silva, Paulo Rocha, André Ottoni and **João Bittencourt**.<br>
+_2021: XXI Escola Regional de Computação da Bahia, Alagoas e Sergipe_<br>
+[[PDF](https://sol.sbc.org.br/index.php/erbase/article/view/20062/19890)]
+
+### [**Metodologia Extensionista para o Ensino de Futebol de Robôs**](https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/971/915)
+
+Higor de Jesus, João de Jesus, Anderson dos Santos, André Ottoni, **João Bittencourt** and Paulo Rocha.<br> _XXIII Congresso Brasileiro de Automática (2020)._ <br>
+[[PDF](https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/971/915)]
+
+### [**Uma Revisão sobre Tecnologias Aplicadas ao Futebol de Robôs**](http://scholar.dickinson.edu/student_honors/221/)
+
+Walber de Jesus, Ejziel Santos, Glendon dos Santos, Lucas da Silva, Fabrício de Jesus, Matheus Tavares, Kevin dos Santos, Higor de Jesus, Paulo Rocha, **João Bittencourt** and André Ottoni.<br> _XXIII Congresso Brasileiro de Automática (2020)._<br>
+[[PDF](https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/1333/964)]
+
+### [**Performance and Energy Efficiency Analysis of Reverse Time Migration on a FPGA Platform**](https://conferences.computer.org/sc19w/2019/pdfs/H2RC2019-5Ezg8QdE17KY3IyxDvNcQb/51Ghb2Aey5GyqGZFzrcqGC/11gKEZuWHVs4DyM5YFLW8t.pdf)
+
+**João Bittencourt**, Wagner de Oliveira, Anderson Nascimento, Leonardo Fialho, Joaquim de Oliveira, Rodrigo Tutu, Georgina Rojas, Lauê Jesus, André Lima, João Souza, Adhvan Furtado and Erik Nascimento.<br>
+_2019 IEEE/ACM International Workshop on Heterogeneous High-performance Reconfigurable Computing (H2RC), co-located with SC19._<br>
+[[PDF](https://conferences.computer.org/sc19w/2019/pdfs/H2RC2019-5Ezg8QdE17KY3IyxDvNcQb/51Ghb2Aey5GyqGZFzrcqGC/11gKEZuWHVs4DyM5YFLW8t.pdf)]
+
+### [**Availability issues for relevant area coverage in wireless visual sensor networks**](https://ieeexplore.ieee.org/document/8229606)
+
+Daniel Costa, **João Bittencourt** and Cristian Duran-Faundez.<br>
+_2017 CHILEAN Conference on Electrical, Electronics Engineering, Information and Communication Technologies (CHILECON)._
+[[PDF](https://ieeexplore.ieee.org/document/8229606)]
+
+### [**CLEFIA Implementation with Full Key Expansion**](https://ieeexplore.ieee.org/document/7302325)
+
+**João Bittencourt**, João Rezende, Wagner de Oliveira and Ricardo Chaves.<br>
+_2015 Euromicro Conference on Digital System Design (DSD)._<br>
+[[PDF](https://ieeexplore.ieee.org/document/7302325)]
+
+### [**VLSI architecture design and implementation of a LDPC encoder for the IEEE 802.22 WRAN standard**](https://ieeexplore.ieee.org/document/7347589)
+
+Nelson Neto, Joaquim de Oliveira, Wagner de Oliveira and **João Bittencourt**.<br>
+_2015 25th International Workshop on Power and Timing Modeling, Optimization and Simulation (PATMOS)._<br>
+[[PDF](https://ieeexplore.ieee.org/document/7347589)]
+
+### [**Hardware Implementation of an OFDMA-WRAN Auto-correlation**](https://www.researchgate.net/publication/292607308_Hardware_Implementation_of_an_OFDMA-WRAN_Auto-correlation)
+
+**João Bittencourt**, Nelson Neto, Joaquim de Oliveira, Wagner de Oliveira.<br>
+_2015 5th Workshop on Circuits and Systems Design (WCAS)._<br>
+[[PDF](https://www.researchgate.net/publication/292607308_Hardware_Implementation_of_an_OFDMA-WRAN_Auto-correlation)]
+
+### [**A Case Study on ipPROCESS: IP-core Design in Academic Environment**](https://www.researchgate.net/profile/Jody-Maick-Matos/publication/263090623_A_Case_Study_on_ipPROCESS_IP-core_Design_in_Academic_Environment/links/0a85e539e2e3444cbb000000/A-Case-Study-on-ipPROCESS-IP-core-Design-in-Academic-Environment.pdf)
+
+**João Bittencourt**, Jody Matos, Anfranserai Dias, Nelson Neto.<br>
+_2014 XX IBERCHIP Workshop, co-located with LASCAS._<br>
+[[PDF](https://www.researchgate.net/profile/Jody-Maick-Matos/publication/263090623_A_Case_Study_on_ipPROCESS_IP-core_Design_in_Academic_Environment/links/0a85e539e2e3444cbb000000/A-Case-Study-on-ipPROCESS-IP-core-Design-in-Academic-Environment.pdf)]
+
+### [**The Simple Genetic Algorithm Performance: A Comparative Study on the Operators Combination**](http://personales.upv.es/thinkmind/dl/conferences/infocomp/infocomp_2011/infocomp_2011_1_40_10069.pdf)
+
+Delmar Carvalho, **João Bittencourt** and Thiago Maia.<br>
+_2011 International Conference on Advanced Communications and Computation_. <br>
+[[PDF](http://personales.upv.es/thinkmind/dl/conferences/infocomp/infocomp_2011/infocomp_2011_1_40_10069.pdf)]
 
 ## Experience
 
-### **Microsoft Research** `2020.5 - 2020.8`
+### **Federal University of Recôncavo da Bahia Research Projects**
+
+**_UFRBots: Equipe de Futebol de Robôs da UFRB_** `2019.2 - Now`
+
+_Researcher_<br>
+This project explores hardware software design techniques for the robot soccer. The purpose is to develop teams for the RoboCup Soccer Simulation 2D and IEEE Very Small Size Caterories.
+
+**_ReConfig: Hardware Accelerators Using Reconfigurable Devices_** `2017.4 - 2020.10`<br>
+
+_Researcher_<br>
+This project explored resources and functionalities of FPGA devices as specific application co-processors. The study focused on performance analysis os such processors targeting both embedded devices and HPC platforms.
+
+### **SENAI CIMATEC, Salvador** `2017.5 - 2019.8`
+
+_Researcher_<br>
+Worked with CIMATEC Supercomputer Center team, on **Architecture Development for FPGA Acceleration of High Performance Computing Applied to Seismic Imaging** project. Developed a FPGA accelerator for the computation of the Reverse Time Migration (RTM) algorithm.
+
+### **LSI-TEC Design House, Internship** `2013.2 - 2013.10`
+
+_Junior Front-end ASIC Designer_<br>
+Worked with the LSI-TEC team on developing a VLSI implementation of OFDMA auto-correlator algorithm for the IEEE 802.22 WRAN standard. Based on the standard specification, I designed and hardware IP validates for chip fabrication.
+
+### **INESC-ID Lisbon** `2012.5 - 2012.10`
 
 _Research Intern_<br>
-Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) team (mentored by [Titus Barik](https://www.barik.net/)) on improving developer productivity in Visual Studio Code. I interviewed developers to elicit their needs for code transformation tools in editors. Inspired by the empirical data and relevant work in program synthesis, I designed **reCode**, an interaction model for rapidly performing complex code transformation using the familiar find-and-replace experience.
+Worked with the [SIPS](https://www.inesc-id.pt/group/IP01/) team (mentored by [Ricardo Chaves](https://sips.inesc-id.pt/~rjfc/)) on improving the hardware structure of CLEFIA algorithm on and FPGA. Inspired by relevant work in compact implementations of cryptography algorithms, I designed a fully featured compact CLEFIA hardware implementation on a Virtex-4 FPGA.
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
-
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
-
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
+### **State University of Feira de Santana, Research Experiences for Undergraduate** `2008 - 2013`
 
 _Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+Worked in the Tutorial Education Programa team (mentored by [Delmar Carvalho](https://orcid.org/0000-0002-4071-7642)) on developing a web-based system with academic information related to the Chapada Diamantina (Brazil) macro-region. Based in the concept of distributed web portal and database systems, I designed a complete distributed system contributing the the local population.
 
 ## Mentoring
 
-[Hwei-Shin Harriman](https://hsharriman.github.io/) (Olin College of Engineering, independent research) `CMU, 2021 - Now` <br>
-[Helena Yang](https://heleaf.me/) (CMU, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2021` <br>
-[Max Krieger](https://a9.io/) (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - 2021` <br>
-[Courtney Miller](https://courtney-e-miller.github.io/) (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-[Anael Kuperwajs Cohen](https://anaelkuperwajs.github.io/) (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
+[Ejziel Sampaio Santos](https://github.com/ejziel) (undergraduate thesis in Computer Engineering) `UFRB 2022 - Now`<br>
+[Vitor da Silva Dias](http://lattes.cnpq.br/9522060613802033) (undergraduate research)<br>
+_UFRBots-Vision: Um estudo aplicado ao desenvolvimento de técnicas e algoritmos de Visão Computacional para o futebol de robôs na categoria IEEE Very Small Size_ `UFRB, 2021 - 2022`<br>
+[Fabrício Velôso de Jesus](https://github.com/FVjesus) (undergraduate thesis in Computer Engineering)<br>_SAPA: Assistente Pessoal Ativado por Linguagem de Sinais._ `UFRB, 2020 - Now`<br>
+[Walber Conceição de Jesus Rocha](https://github.com/rwalber) (undergraduate thesis in Computer Engineering)<br>_SmartGesture: Sistema de Reconhecimento de Gestos Otimizado para Plataformas Microcontroladas Utilizando RNC._ `UFRB 2022`<br>
+[Ejziel Sampaio Santos](https://github.com/ejziel) (undergraduate research)<br>_PattRecog: Sistema de Reconhecimento de Padrões em Sistemas de Baixo Custo._`UFRB, 2020 - 2021` <br>
+[Victória Emanuela Alves Oliveira](https://github.com/VictoriaOli) (underaduate extension program) <br>_UFRBots VSSim: uma visão extensionista para o ensino de futebol de robôs simulado no Recôncavo da Bahia_`UFRB, 2021` <br>
+[Walber Conceição de Jesus Rocha](https://github.com/rwalber) (undergraduate thesis in Exact and Technology Sciences)<br>_Desenvolvimento de um Sistema de Medição de Distância Baseado em Visão Computacional Utilizando Laser de Linha_`UFRB, 2019`<br>
+[Samuel Rebouças de Jesus](https://github.com/samuelreboucas07) (B.S. in Exact and Technology Sciences)<br>_Análise de desempenho de detectores e descritores de características utilizando a plataforma computacional Raspberry Pi_`UFRB, 2019`<br>
+Patrick Vieira Brito e Silva (Co-advisor. undergraduate thesis in Computer Engineering)<br>_Implementação ASIC do Algoritmo CLEFIA com Suporte Completo à Expansão de Chaves_`UEFS, 2017` <br>
+Tiago da Silva Oliveira (Co-advisor. undergraduate thesis in Computer Engineering)<br>_Aplicação de Oficinas de Eletrônica e Programação como Forma de Atração de Estudantes de Nível Médio para a Área de Engenharia de Computação_ `UEFS, 2017` <br>
 
 ---
 
 ## Honors & Awards
 
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+SEMIC'11 Third Place Poster `UEFS, 2011` <br>
+Second Place, South America Brazil, First Phase in ACM ICPC `UEFS, 2011` <br>
+Third Place, PROGBASE Programing Marathon `ERBASE, 2010` <br>
+First Place, South America Brazil, First Phase in ACM ICPC `UEFS, 2010` <br>
 
 ## Teaching
 
-Teaching Assistant, **Crafting Software (17-450/17-950)** `CMU, 2022` <br>
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+Assistant Professor `UFRB, 2016 - Now` <br>
 
+- **Digital Circuits II**
+- **Computer Architecture**
+- **Embedded Systems**
+- **Real-time Systems**
+
+Substitute Professor `UEFS, 2014 - 2017` <br>
+
+- **Digital Systems**
+- **Digital Circuits**
+- **Introduction to Electronics**
 
 ## Service
 
-Sub-reviewer `OOPSLA'21, VL/HCC'21` <br>
-Reviewer `CHI'21, CHI'22, SIGGRAPH'22` <br>
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2021` <br>
+Reviewer `IEEE Latin America` <br>
 
 <!-- ### Footer
 
