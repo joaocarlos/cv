@@ -157,7 +157,7 @@ _2015 Euromicro Conference on Digital System Design (DSD)._<br>
 Nelson Neto, Joaquim de Oliveira, Wagner de Oliveira and **João Bittencourt**.<br>
 _2015 25th International Workshop on Power and Timing Modeling, Optimization and Simulation (PATMOS)._<br>
 
-## <!-- [[PDF](https://ieeexplore.ieee.org/document/7347589)] -->
+<!-- [[PDF](https://ieeexplore.ieee.org/document/7347589)] -->
 
 ### [**Hardware Implementation of an OFDMA-WRAN Auto-correlation**](https://www.researchgate.net/publication/292607308_Hardware_Implementation_of_an_OFDMA-WRAN_Auto-correlation)
 
