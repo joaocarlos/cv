@@ -7,6 +7,9 @@ email:
 homepage:
   url: http://sites.google.com/ufrb.edu.br/joaobittencourt
   text: sites.google.com/ufrb.edu.br/joaobittencourt
+lattes:
+  url: https://lattes.cnpq.br/6741995694783822
+  text: lattes/6741995694783822
 ---
 
 # João **Bittencourt**
@@ -15,6 +18,7 @@ homepage:
 include contact information from the front matter
 Supported arguments:
     - homepage: url, text
+    - lattes: url, text
     - phone
     - email
 -->
