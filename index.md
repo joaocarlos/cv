@@ -227,6 +227,10 @@ Worked in the Tutorial Education Programa team (mentored by [Delmar Carvalho](ht
 
 ## Mentoring
 
+### [**Victória Emanuela Alves Oliveira**](https://github.com/VictoriaOli) (undergraduate research) `UFRB 2022.10 - Now`
+
+MultiPath: Autonomous Path Planning in Dynamic Multi-Agent Environment
+
 ### [**Ejziel Sampaio Santos**](https://github.com/ejziel) (undergraduate thesis in Computer Engineering) `UFRB 2021.11 - Now`
 
 ### [**Fabrício Velôso de Jesus**](https://github.com/FVjesus) (undergraduate thesis in Computer Engineering) `UFRB, 2020.2 - Now`
