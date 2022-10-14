@@ -75,6 +75,8 @@ _As Engenharias frente a Sociedade, a Economia, e o Meio Ambiente 5 (2020)._<br>
 
 <!-- [[PDF](https://cdn.atenaeditora.com.br/artigos_anexos/cap11_8c86eb9d5fbb104d17ec9964ebc400eb26ffb993.pdf)] -->
 
+---
+
 ### _Journal Papers_
 
 ### [**Sistema de medição de distância baseado em visão computacional utilizando laser de linha**](https://revistas.unifacs.br/index.php/rsc/article/view/6643/4047)
@@ -83,8 +85,6 @@ Walber de Jesus, Samuel Rebouças and **João Bittencourt**.<br>
 _Revista de Sistemas e Computação, v. 10, n. 1, 2020._<br>
 
 <!-- [[PDF](https://revistas.unifacs.br/index.php/rsc/article/view/6643/4047)] -->
-
----
 
 ### [**Low-footprint CLEFIA FPGA Implementations with Full-key Expansion**](https://www.ijcaonline.org/archives/volume174/number5/bittencourt-2017-ijca-915392.pdf)
 
@@ -130,6 +130,8 @@ Higor de Jesus, João de Jesus, Anderson dos Santos, André Ottoni, **João Bitt
 Walber de Jesus, Ejziel Santos, Glendon dos Santos, Lucas da Silva, Fabrício de Jesus, Matheus Tavares, Kevin dos Santos, Higor de Jesus, Paulo Rocha, **João Bittencourt** and André Ottoni.<br> _2020 XXIII Congresso Brasileiro de Automática (CBA)._<br>
 
 <!-- [[PDF](https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/1333/964)] -->
+
+---
 
 ### [**Performance and Energy Efficiency Analysis of Reverse Time Migration on a FPGA Platform**](https://conferences.computer.org/sc19w/2019/pdfs/H2RC2019-5Ezg8QdE17KY3IyxDvNcQb/51Ghb2Aey5GyqGZFzrcqGC/11gKEZuWHVs4DyM5YFLW8t.pdf)
 
@@ -190,6 +192,8 @@ _Researcher_<br>
 
 The project seeks building and implementing a new way to manage water at UFRB through smart sensors. The purpose is to provide several smart solutions for water management.
 
+---
+
 ### **FruitAPI: Digital platform for scientific information on pests that affect tropical fruit trees** `2020 - Now`
 
 _Researcher_<br>
@@ -223,6 +227,8 @@ Worked with the LSI-TEC team on developing a VLSI implementation of OFDMA auto-c
 
 _Research Intern_<br>
 Worked with the [SIPS](https://www.inesc-id.pt/group/IP01/) team (mentored by [Ricardo Chaves](https://sips.inesc-id.pt/~rjfc/)) on improving the hardware structure of CLEFIA algorithm on and FPGA. Inspired by relevant work in compact implementations of cryptography algorithms, I designed a fully featured compact CLEFIA hardware implementation on a Virtex-4 FPGA.
+
+---
 
 ### **State University of Feira de Santana, Research Experiences for Undergraduate** `2008 - 2013`
 
@@ -299,7 +305,8 @@ First Place, South America Brazil, First Phase in ACM ICPC `UEFS, 2010` <br>
 
 ## Service
 
-Reviewer `IEEE Latin America` <br>
+Reviewer `IEEE Latin America Transactions` <br>
+Chair `Research Workshop of Regional School of Computing (ERBASE)`<br>
 
 <!-- ### Footer
 
