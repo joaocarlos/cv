@@ -91,6 +91,16 @@ _International Journal of Computer Applications, v. 174, p. 1-8, 2017._<br>
 
 ### _Conference Papers_
 
+### [**Metodologia extensionista para o ensino virtual de Inteligência Artificial e robótica em ambientes virtuais de aprendizagem**](http://www.abenge.org.br/sis_artigo_doi.php?e=COBENGE&a=22&c=3836)
+
+Laís Cardoso de Medeiros, Gleice Kelly Barbosa Souza, Kevin Luís dos Santos, Victória Emanuela Alves Oliveira, Lucas Lopes Rios da Silva, **João Carlos Nunes Bittencourt**, Paulo Fábio Figueiredo Rocha, André Luiz Carvalho Ottoni.<br>
+_2022 L Congresso Brasileiro de Educação em Engenharia (COBENGE)_
+
+### [**ITUBERÁBots: uma visão extensionista para o futebol de robôs no baixo Sul da Bahia**](http://www.abenge.org.br/sis_artigo_doi.php?e=COBENGE&a=22&c=3840)
+
+Kevin Luís dos Santos, Anderson dos Santos, **João Carlos Nunes Bittencourt**, Paulo Fábio Figueiredo Rocha, André Luiz Carvalho Ottoni.<br>
+_2022 L Congresso Brasileiro de Educação em Engenharia (COBENGE)_
+
 ### [**Avaliando a Eficácia de Redes Neurais Artificiais para Reconhecimento de Face Utilizando Raspberry Pi**](https://sol.sbc.org.br/index.php/erbase/article/view/20366)
 
 Ejziel Santos, Fabrício Jesus, Walber Rocha and **João Bittencourt**.<br>
